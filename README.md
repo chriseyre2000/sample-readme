@@ -54,10 +54,10 @@ https://codurance.com/company/
 
 *Useful endpoints to hit*
 
-|Usage|endpoint|
-|-|-|
-|Something|/something|
-|Another|/api/another|
+|Usage|endpoint|Usages|
+|-|-|-|
+|Something|/something|someone who calls this|
+|Another|/api/another|someone who calls this|
 
 ## Rabbit MQ
 
